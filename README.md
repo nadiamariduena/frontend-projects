@@ -17,7 +17,7 @@
 <br>
 <br>
 
-[<img src="/src/img/volkanuve_600.gif"/>](https://preview-volkanuve-lb5ez1y5m-nadiamariduena.vercel.app/Home)
+[<img src="/src/img/volkanuve.gif"/>](https://preview-volkanuve-lb5ez1y5m-nadiamariduena.vercel.app/Home)
 
 <br>
 <br>

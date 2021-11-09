@@ -6,21 +6,18 @@
 
 ## VOLKANUVE (portfolio)
 
-<br>
+#### The Code: [code](https://github.com/nadiamariduena/preview-volkanuve)
 
-- 5 months dedicated to 3d modeling (I 3D modeled all the items for this project)
-
-<br>
-
-- 1 month for web development (Half of it went to the lightning research in THREEjs)
+#### The Process: [process | THREEJS](https://github.com/nadiamariduena/3d-configurator-beginner1)
 
 <br>
 
-[<img src="/src/img/volkanuve_600.gif"/>](https://preview-volkanuve-lb5ez1y5m-nadiamariduena.vercel.app/LetheCity)
+> **I dedicated a couple of months to learn** from scratch **'3d modeling'**, so that i could progress more in my path to learn about 3d configuration for e-commerce products. I also learn how to render and set up environments to showcase Industrial designs<br><br> Then I spend a couple of weeks between designing and developing the website and building the **threejs** scene that you [can see in this link](https://preview-volkanuve-lb5ez1y5m-nadiamariduena.vercel.app/Furniture).
 
-[code](https://github.com/nadiamariduena/preview-volkanuve)
+<br>
+<br>
 
-[process threejs scene](https://github.com/nadiamariduena/3d-configurator-beginner1)
+[<img src="/src/img/volkanuve_600.gif"/>](https://preview-volkanuve-lb5ez1y5m-nadiamariduena.vercel.app/Home)
 
 <br>
 <br>

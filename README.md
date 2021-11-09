@@ -10,7 +10,7 @@
 
 <br>
 
-##### The Code: [code](https://github.com/nadiamariduena/preview-volkanuve) (Under request)
+##### The Code: [VOLKANUVE](https://github.com/nadiamariduena/preview-volkanuve) (Under request)
 
 ##### The Process: [process | THREEJS](https://github.com/nadiamariduena/3d-configurator-beginner1)
 

@@ -4,7 +4,7 @@
 <hr>
 <br>
 
-## LAMA (e-commerce store)
+## NOVE (e-commerce store)
 
 ##### _11/2021_
 
@@ -18,9 +18,9 @@ React , javascript, css/scss, FramerMotion, AOS, MATERIAL UI, Styled Components 
 
 <br>
 
-##### The Code unrouted : [Lama / frontend](https://github.com/nadiamariduena/react-mern-21-frontend)
+##### The Code unrouted : [Nove / frontend](https://github.com/nadiamariduena/react-mern-21-frontend)
 
-##### In progress: [Lama / backend-1 ]()
+##### In progress: [Nove / backend-1 ]()
 
 <br>
 
@@ -31,7 +31,7 @@ React , javascript, css/scss, FramerMotion, AOS, MATERIAL UI, Styled Components 
 
 - Click on the image to **preview**
 
-[<img src="/src/img/nove-store1.gif"/>](https://preview-volkanuve-lb5ez1y5m-nadiamariduena.vercel.app/Home)
+[<img src="/src/img/nove-store1.gif"/>](https://react-mern-21-frontend-custom-router1.vercel.app/)
 
 <br>
 <br>

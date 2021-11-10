@@ -4,13 +4,56 @@
 <hr>
 <br>
 
+## LAMA (e-commerce store)
+
+##### _11/2021_
+
+##### Software | languages | libraries used:
+
+React , javascript, css/scss, FramerMotion, AOS, MATERIAL UI, Styled Components Photoshop.
+
+<!-- | Software | languages | libraries used: |
+| :------: | :-------: | :-------------: |
+|  col 1   |   col2    |      col 1      | -->
+
+<br>
+
+##### The Code unrouted : [Lama / frontend](https://github.com/nadiamariduena/react-mern-21-frontend)
+
+##### In progress: [Lama / backend-1 ]()
+
+<br>
+
+> **I started this project out of curiosity**, I wanted to see the **advantages & disadvantages** between building an e-commerce site with (Mongodb, Express, React,Nodejs | **MERN**) and a site build with React and **Commercejs and stripe**. [You can check the **COMMERCEJS** here](https://github.com/nadiamariduena/e-commerce-react-stripe).
+
+<br>
+<br>
+
+- Click on the image to **preview**
+
+[<img src="/src/img/nove-store1.gif"/>](https://preview-volkanuve-lb5ez1y5m-nadiamariduena.vercel.app/Home)
+
+<br>
+<br>
+<br>
+<hr>
+<br>
+
 ## VOLKANUVE (portfolio)
 
 ##### _10/2021_
 
+##### Software | languages | libraries used:
+
+Blender, React , javascript , Threejs , FramerMotion, AOS, Html, css/scss, Photoshop.
+
+<!-- | Software | languages | libraries used: |
+| :------: | :-------: | :-------------: |
+|  col 1   |   col2    |      col 1      | -->
+
 <br>
 
-##### The Code: [VOLKANUVE](https://github.com/nadiamariduena/preview-volkanuve) (Under request)
+##### The Code: [VOLKANUVE](https://github.com/nadiamariduena/preview-volkanuve) (Upon request)
 
 ##### The Process: [process | THREEJS](https://github.com/nadiamariduena/3d-configurator-beginner1)
 
@@ -23,7 +66,7 @@
 
 - Click on the image to **preview**
 
-[<img src="/src/img/volkanuve.gif"/>](https://preview-volkanuve-lb5ez1y5m-nadiamariduena.vercel.app/Home)
+[<img src="/src/img/volkanuve.gif"/>](https://preview-volkanuve.vercel.app/)
 
 <br>
 <br>

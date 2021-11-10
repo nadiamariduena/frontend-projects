@@ -41,11 +41,11 @@ React , javascript, css/scss, FramerMotion, AOS, MATERIAL UI, Styled Components 
 
 ## VOLKANUVE (portfolio)
 
-##### _10/2021_
+##### 05/2021-10/2021
 
 ##### Software | languages | libraries used:
 
-Blender, React , javascript , Threejs , FramerMotion, AOS, Html, css/scss, Photoshop.
+**Blender**, React , javascript , Threejs , FramerMotion, AOS, Html, css/scss, Photoshop.
 
 <!-- | Software | languages | libraries used: |
 | :------: | :-------: | :-------------: |
@@ -59,7 +59,7 @@ Blender, React , javascript , Threejs , FramerMotion, AOS, Html, css/scss, Photo
 
 <br>
 
-> **I Dedicated a couple of months to learn** from scratch **'3d modeling'**, so that i could progress more in my path to learn about 3d configuration for e-commerce development. I also learnt how to render and set up environments to showcase Industrial designs<br><br> Subsequently I spend a couple of weeks between designing and developing the website and building the **THREEJS scene** that you [can check on this link](https://preview-volkanuve-lb5ez1y5m-nadiamariduena.vercel.app/Furniture).
+> **I Dedicated a couple of months to learn** from scratch **'3d modeling'**, so that i could progress more in my path to learn about **3d configuration** for e-commerce development. I also learnt how to render and set up environments to showcase Industrial designs<br><br> Subsequently I spend a couple of weeks between designing and developing the website and building the **THREEJS scene** that you [can check on this link](https://preview-volkanuve-lb5ez1y5m-nadiamariduena.vercel.app/Furniture).
 
 <br>
 <br>
@@ -67,6 +67,39 @@ Blender, React , javascript , Threejs , FramerMotion, AOS, Html, css/scss, Photo
 - Click on the image to **preview**
 
 [<img src="/src/img/volkanuve.gif"/>](https://preview-volkanuve.vercel.app/)
+
+<br>
+<br>
+<br>
+<hr>
+<br>
+
+## Melissa Murillo (portfolio)
+
+##### 10/2020 02/2021
+
+##### Software | languages | libraries used:
+
+React , javascript, AOS, GSAP, Html, css/scss, Photoshop.
+
+<!-- | Software | languages | libraries used: |
+| :------: | :-------: | :-------------: |
+|  col 1   |   col2    |      col 1      | -->
+
+<br>
+
+##### The Process: [ melissa murillo portfolio](https://github.com/nadiamariduena/dci-finalprojects)
+
+<br>
+
+> I created this portfolio to test my abilities...
+
+<br>
+<br>
+
+- Click on the image to **preview**
+
+[<img src="/src/img/melissamurillo-portfolio.gif"/>](https://meyoko-2020-160ps5y8v.vercel.app/Home)
 
 <br>
 <br>

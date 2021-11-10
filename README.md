@@ -1,10 +1,24 @@
 <br>
 <br>
-<br>
-<hr>
+
+### The following projects were built between 2018 & 2021, during and after [CIMDATA](https://www.cimdata.de/weiterbildung/webentwicklung/) & [DCI](https://digitalcareerinstitute.org/) full stack development course.
+
 <br>
 
-## NOVE (e-commerce store)
+##### [**Click here** to see all the projects](https://github.com/nadiamariduena/react)
+
+<br>
+<br>
+
+## <u>FEATURED PROJECTS</u> ⬇️
+
+<br>
+
+<br>
+<br>
+<br>
+
+## _NOVE_ (e-commerce store)
 
 ##### _11/2021_
 
@@ -39,7 +53,7 @@ React , javascript, css/scss, FramerMotion, AOS, MATERIAL UI, Styled Components 
 <hr>
 <br>
 
-## VOLKANUVE (portfolio)
+## _VOLKANUVE_ (portfolio)
 
 ##### 05/2021-10/2021
 
@@ -74,7 +88,7 @@ React , javascript, css/scss, FramerMotion, AOS, MATERIAL UI, Styled Components 
 <hr>
 <br>
 
-## Melissa Murillo (portfolio)
+## _Melissa Murillo_ (portfolio)
 
 ##### 10/2020 02/2021
 
@@ -86,15 +100,12 @@ React , javascript, AOS, GSAP, Html, css/scss, Photoshop.
 | :------: | :-------: | :-------------: |
 |  col 1   |   col2    |      col 1      | -->
 
-<br>
-
 ##### The Process: [ melissa murillo portfolio](https://github.com/nadiamariduena/dci-finalprojects)
 
 <br>
 
 > I created this portfolio to test my abilities...
 
-<br>
 <br>
 
 - Click on the image to **preview**
@@ -105,4 +116,6 @@ React , javascript, AOS, GSAP, Html, css/scss, Photoshop.
 <br>
 <br>
 <hr>
+<br>
+<br>
 <br>

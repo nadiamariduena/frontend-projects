@@ -32,7 +32,7 @@ React , javascript, css/scss, FramerMotion, AOS, MATERIAL UI, Styled Components 
 
 ##### The Code unrouted : [Nove / frontend](https://github.com/nadiamariduena/react-mern-21-frontend)
 
-##### In progress: [Nove / backend-1 ](https://github.com/nadiamariduena/react-mern-21-backend)
+##### ✋ In progress: [Nove / backend-1 ](https://github.com/nadiamariduena/react-mern-21-backend)
 
 <br>
 
@@ -41,7 +41,7 @@ React , javascript, css/scss, FramerMotion, AOS, MATERIAL UI, Styled Components 
 <br>
 <br>
 
-- Click on the image to **preview**
+- Click on the image to **see the app**
 
 [<img src="/src/img/nove-store1.gif"/>](https://react-mern-21-frontend-custom-router1.vercel.app/)
 

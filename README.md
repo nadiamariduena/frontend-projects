@@ -14,6 +14,30 @@
 
 <br>
 <br>
+
+
+---
+
+
+<br>
+
+## CAMAIE FURNITURE
+
+>This e-commerce shop will help you choose your favorite articles for your home.This project wasn't created for production purposes, instead it is meant to be a visualization of my practice with Single Page Applications.
+
+**STACK:** React, THREEjs, SCSS, Styled components, AOS, Framer Motion and Blender.
+
+Photo Courtesy of [COTTONBRO](https://www.pexels.com/fr-fr/@cottonbro/)
+
+
+[<img src="/camaie3.jpg"/>](https://camaie-furniture-store.netlify.app/)
+
+<br>
+
+
+---
+
+
 <br>
 
 ## _NOVE_ (e-commerce store)
@@ -38,7 +62,8 @@ React , javascript, css/scss, FramerMotion, AOS, MATERIAL UI, Styled Components 
 
 <br>
 
-> **I started this project out of curiosity**, I wanted to see the **advantages & disadvantages** between building an e-commerce site with (Mongodb, Express, React,Nodejs | **MERN**) and a site build with React and **Commercejs and stripe**. [You can check the **COMMERCEJS** here](https://github.com/nadiamariduena/e-commerce-react-stripe).
+
+
 
 <br>
 <br>
